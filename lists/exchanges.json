@@ -19,12 +19,6 @@
       "url": "https://www.binancecnt.com/en/pre-connect?merchantCode=xubo_test&cryptoCurrency=XVG"
     },
     {
-      "img": "../static/img/exchanges/litebit.png",
-      "title": "Litebit",
-      "link": "litebit.eu",
-      "url": "https://litebit.eu"
-    },
-    {
       "img": "../static/img/exchanges/bithumb.png",
       "title": "Bithumb",
       "link": "bithumb.com",
@@ -263,6 +257,12 @@
       "title": "EasyBit",
       "link": "easybit.com",
       "url": "https://easybit.com/"
+    },
+    {
+      "img": "../static/img/exchanges/bkex.png",
+      "title": "BKEX",
+      "link": "bkex.com",
+      "url": "https://www.bkex.com/"
     }
   ]
 }
